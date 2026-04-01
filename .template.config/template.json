@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Nezih Boujdidi",
+  "classifications": ["Web", "API", "Clean Architecture"],
+  "identity": "nezih.cleanarchitecture.template",
+  "name": "Clean Architecture .NET Template",
+  "shortName": "cleanapi",
+  "sourceName": "TemplateProject",
+  "preferNameDirectory": true,
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "datatype": "string",
+      "defaultValue": "net8.0",
+      "replaces": "net8.0"
+    }
+  }
+}
